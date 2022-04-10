@@ -1,0 +1,16 @@
+.Green {
+  border: green solid 3px;
+}
+
+.Red {
+  border: red solid 3px;
+}
+
+.container {
+  border: solid 2px;
+  padding: 30px;
+  max-width: fit-content;
+  margin-left: 20%;
+  margin-top: 5%;
+  text-align: center;
+}
